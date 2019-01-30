@@ -12,15 +12,25 @@ I hope you'll enjoy it ;)
 
 ## CHANGES :
 * Modern Druid cat, bear, sealion and moonkin forms (3.1, 7.0)
+** 时髦化德鲁伊猫，熊，海狮和枭兽形态(3.1, 7.0)
 * A lot of high quality updated models for mobs (3.0, 4.0, 5.0, 6.0, 7.0)
+** 大量高质量的怪物模型更新(3.0, 4.0, 5.0, 6.0, 7.0)
 * Elwynn trees (4.0)
+** 埃尔文森林的树木 (4.0)
 * Teldrassil, Ashenvale & Winterspring trees (4.0)
+** 泰达希尔，灰谷 & 冬泉谷的树林(4.0)
 * Various Stormwind City textures (4.0)
+** 各种暴风城贴图(4.0)
 * Improved Night elf character screen
+** 改良暗夜精灵角色screen
 * Stranglethorn trees (4.0)
+** 荆棘谷的树林(4.0)
 * Many Stormwind doodads (4.0)
+** 许多暴风城的装饰物 (4.0)
 * Improved waterfalls everywhere (3.0)
+** 改良所有的瀑布 (3.0)
 * Generic crates, barrels and postboxes (6.0)
+** 普通木箱，筒和邮箱(6.0)
 
 ## TO DO :
 * Westfall, Duskwood and Redridge Mountains trees (based on the Elwynn model)
